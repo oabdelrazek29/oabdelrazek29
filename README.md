@@ -1,6 +1,6 @@
-<p><sub>OMAR ABDELRAZEK &nbsp; / &nbsp; SCIENCE · SOFTWARE · DESIGN</sub></p>
+<img src="assets/android-binary.svg" width="100%" alt="Omar's binary android: a futuristic engineering portrait drawn from zeros and ones. From a sketch to a working system. MIRA / ARC.">
 
-# Building tools for curious minds.
+## Hi, I'm Omar.
 
 I turn complex ideas into thoughtful, approachable software. Currently building **MIRA**, a visual research workspace, and **ARC**, an AI-assisted learning system.
 
