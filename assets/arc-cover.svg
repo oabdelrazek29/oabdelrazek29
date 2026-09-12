@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+<title id="title">ARC / A clearer path to learning.</title>
+<desc id="desc">Engineering sketchbook project cover in graphite and muted teal on ivory.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#367b73" stroke-opacity=".045"/></pattern></defs>
+<rect width="1000" height="440" rx="18" fill="#f4f1e8"/>
+<rect width="1000" height="440" rx="18" fill="url(#grid)"/>
+<path d="M32 36H968M32 404H968M510 36V404" stroke="#367b73" stroke-opacity=".2" fill="none"/>
+<text x="42" y="80" font-family="monospace" font-size="21" letter-spacing="2" fill="#367b73">FIELD NOTES / 02</text>
+<text x="38" y="226" font-family="Georgia,serif" font-size="114" fill="#202b2a">ARC</text>
+<path d="M42 263H104" stroke="#367b73" stroke-width="3"/>
+<text x="42" y="316" font-family="Georgia,serif" font-size="30" fill="#202b2a">A clearer path to learning.</text>
+<text x="42" y="379" font-family="monospace" font-size="19" letter-spacing="1" fill="#536b64">OMAR ABDELRAZEK</text>
+<g fill="none" stroke="#202b2a" stroke-width="1.4"><path d="M600 257Q665 127 746 185Q824 111 908 226M600 257L672 307L746 185L831 306L908 226M600 257L746 185L908 226M672 307L831 306"/><path d="M582 348H928M590 105V354" stroke="#367b73" stroke-opacity=".2" stroke-dasharray="4 6"/></g><circle cx="600" cy="257" r="12" fill="#f4f1e8" stroke="#367b73" stroke-width="2"/><circle cx="600" cy="257" r="4" fill="#367b73"/><text x="588" y="233" fill="#536b64" font-family="monospace" font-size="18">01</text><circle cx="672" cy="307" r="12" fill="#f4f1e8" stroke="#367b73" stroke-width="2"/><circle cx="672" cy="307" r="4" fill="#367b73"/><text x="660" y="283" fill="#536b64" font-family="monospace" font-size="18">02</text><circle cx="746" cy="185" r="12" fill="#f4f1e8" stroke="#367b73" stroke-width="2"/><circle cx="746" cy="185" r="4" fill="#367b73"/><text x="734" y="161" fill="#536b64" font-family="monospace" font-size="18">03</text><circle cx="831" cy="306" r="12" fill="#f4f1e8" stroke="#367b73" stroke-width="2"/><circle cx="831" cy="306" r="4" fill="#367b73"/><text x="819" y="282" fill="#536b64" font-family="monospace" font-size="18">04</text><circle cx="908" cy="226" r="12" fill="#f4f1e8" stroke="#367b73" stroke-width="2"/><circle cx="908" cy="226" r="4" fill="#367b73"/><text x="896" y="202" fill="#536b64" font-family="monospace" font-size="18">05</text><text x="620" y="378" fill="#367b73" font-family="monospace" font-size="20">CONNECT THE CONCEPTS</text>
+</svg>

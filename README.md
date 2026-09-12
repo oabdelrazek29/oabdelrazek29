@@ -10,10 +10,13 @@ I turn complex ideas into thoughtful, approachable software. Currently building 
 
 ## 01 / MIRA
 
-**A space for ideas to take shape.**
+<a href="https://github.com/oabdelrazek29/mira-demo"><img src="assets/mira-cover.svg" width="100%" alt="MIRA — a workspace for discovery. Field notes 01: a sketched orbital object on ivory paper."></a>
 
 A scientific workspace prototype exploring visual objects, computational models, and more intuitive ways to interact with research.
 
+<details>
+<summary>Inside MIRA — view the interface</summary>
+<br>
 <a href="https://github.com/oabdelrazek29/mira-demo">
   <img src="assets/mira-preview.png" width="100%" alt="MIRA's existing design prototype: a dark spatial canvas with glass objects, a workspace library, and an object inspector.">
 </a>
@@ -22,21 +25,32 @@ A scientific workspace prototype exploring visual objects, computational models,
 
 The preview shows the visual design sandbox. Scientific models and hand tracking are not connected to this preview.
 
+</details>
+
+*Design prototype · In development*
+
 **[Explore MIRA ↗](https://github.com/oabdelrazek29/mira-demo)**
 
 ---
 
 ## 02 / ARC
 
-**Make complex material click.**
+<a href="https://my-app-eta-nine-83.vercel.app/"><img src="assets/arc-cover.svg" width="100%" alt="ARC — a clearer path to learning. Field notes 02: a sketched network of connected concepts on ivory paper."></a>
 
 An AI-assisted learning workspace that brings courses, tutoring, notes, and visual knowledge maps into one focused place.
 
+<details>
+<summary>Inside ARC — view the interface</summary>
+<br>
 <a href="https://my-app-eta-nine-83.vercel.app/">
   <img src="assets/arc-preview.png" width="100%" alt="ARC's live website: an editorial learning interface with the headline The AI Learning System, Built For Deep Study.">
 </a>
 
 <sub>WEB APPLICATION · IN ACTIVE DEVELOPMENT</sub>
+
+</details>
+
+*Web application · In active development*
 
 **[Visit ARC ↗](https://my-app-eta-nine-83.vercel.app/)** &nbsp; · &nbsp; [Explore the code](https://github.com/oabdelrazek29/ARC)
 
